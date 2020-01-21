@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "134838486396",
+    "firebase_url": "https://genericmodule.firebaseio.com",
+    "project_id": "genericmodule",
+    "storage_bucket": "genericmodule.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134838486396:android:d99769956b149b1dc7d0f9",
+        "android_client_info": {
+          "package_name": "com.sachtech.notificationdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134838486396-j4vg1ch53eb5ai62usuv9g84irkbdtr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlMEAAXLqnrmfVbjijhuwEp6od-twieuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134838486396-j4vg1ch53eb5ai62usuv9g84irkbdtr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134838486396:android:c6331b96dc5918d8c7d0f9",
+        "android_client_info": {
+          "package_name": "ml.mrbit.push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134838486396-j4vg1ch53eb5ai62usuv9g84irkbdtr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlMEAAXLqnrmfVbjijhuwEp6od-twieuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134838486396-j4vg1ch53eb5ai62usuv9g84irkbdtr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
